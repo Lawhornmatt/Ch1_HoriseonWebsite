@@ -6,12 +6,14 @@ Given source code was refractored and full functionality restored.
 ~STRUCTURE:
 The repo on GitHub has directories in the below structure:
 
+```
 /Ch1_HoriseonWebsite
 |-README.md (you are here)
 |-index.html
 assets/
 |-css/
 images/
+```
 
 ~HOW TO:
 Load index.html in your browser to view the client's refractored website.
