@@ -22,7 +22,7 @@ css/ contains 'reset.css' and 'style.css'
 'style.css' contains all the styling for index.html
 images/ contains all the .png and .jpg files necessary to display the website correctly.
 
-## VISIT LIVE:
+## VISIT:
 You can view the website hosted from GitHub by visiting the link:
 
 [The Finished Assignment](https://lawhornmatt.github.io/Ch1_HoriseonWebsite/)
