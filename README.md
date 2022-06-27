@@ -28,8 +28,7 @@ You can view the website hosted from GitHub by visiting the link:
 [The Finished Assignment](https://lawhornmatt.github.io/Ch1_HoriseonWebsite/)
 
 ## SCREENSHOT:
-The assignment README.md in the develop folder mentioned including a screenshot in my README.md but
-that seems a bit too much for a classic readme. I am unsure what is being asked...
+![Alt text](assets/images/uglyScreenshot.png?raw=true "A terrible screenshot of the website, eww")
 
 ## CREDIT:
 All work by Matthew Lawhorn
